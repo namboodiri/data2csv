@@ -1,0 +1,7 @@
+setup.py
+data2csv/__init__.py
+data2csv.egg-info/PKG-INFO
+data2csv.egg-info/SOURCES.txt
+data2csv.egg-info/dependency_links.txt
+data2csv.egg-info/not-zip-safe
+data2csv.egg-info/top_level.txt
